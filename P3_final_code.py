@@ -2,8 +2,6 @@ import sys
 sys.path.append('../')
 from Common.project_library import *
 
-# Modify the information below according to you setup and uncomment the entire section
-
 # 1. Interface Configuration
 project_identifier = 'P3B' # enter a string corresponding to P0, P2A, P2A, P3A, or P3B
 ip_address = '192.168.2.15' # enter your computer's IP address
