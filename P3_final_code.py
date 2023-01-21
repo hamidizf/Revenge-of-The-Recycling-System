@@ -3,8 +3,8 @@ sys.path.append('../')
 from Common.project_library import *
 
 # 1. Interface Configuration
-project_identifier = 'P3B' # enter a string corresponding to P0, P2A, P2A, P3A, or P3B
-ip_address = '192.168.2.15' # enter your computer's IP address
+project_identifier = 'P3B' 
+ip_address = '192.168.2.15' 
 hardware = False # True when working with hardware. False when working in the simulation
 
 # 2. Servo Table configuration
